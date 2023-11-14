@@ -17,7 +17,6 @@
 		}
 	],
 	"TargetPlatforms": [
-		"IOS",
 		"Linux",
 		"LinuxArm64",
 		"Mac",
