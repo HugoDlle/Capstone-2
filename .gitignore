@@ -74,6 +74,7 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # All assets
+Windows/*
 Content/Assets/*
 Config/.DS_Store
 Config/Assets/AnimStarterPack/Aim_Space_Hip.uasset
