@@ -12,12 +12,20 @@
 			]
 		},
 		{
-			"Name": "Water",
+			"Name": "RigLogic",
 			"Enabled": true
 		},
 		{
-			"Name": "RigLogic",
-			"Enabled": true
+			"Name": "GeometryCache",
+			"Enabled": false
+		},
+		{
+			"Name": "AlembicImporter",
+			"Enabled": false
+		},
+		{
+			"Name": "ChaosNiagara",
+			"Enabled": false
 		}
 	]
 }
