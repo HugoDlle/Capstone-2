@@ -26,6 +26,10 @@
 		{
 			"Name": "ChaosNiagara",
 			"Enabled": false
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
 		}
 	]
 }
